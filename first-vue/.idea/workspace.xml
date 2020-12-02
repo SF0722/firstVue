@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d9c0618-68f8-4f1f-8890-6bdd14866bfb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ap-master/task/src/main/java/com/you/ap/task/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/first-vue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first-vue/src/components/Test.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flinkquickstart/quickstart/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flinkquickstart/quickstart/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flinkquickstart/quickstart/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flinkquickstart/quickstart/.idea/libraries/Maven__com_esotericsoftware_kryo_kryo_2_24_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flinkquickstart/quickstart/.idea/libraries/Maven__com_esotericsoftware_minlog_minlog_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flinkquickstart/quickstart/.idea/libraries/Maven__com_github_scopt_scopt_2_11_3_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flinkquickstart/quickstart/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flinkquickstart/quickstart/.idea/libraries/Maven__com_twitter_chill_2_11_0_7_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flinkquickstart/quickstart/.idea/libraries/Maven__com_twitter_chill_java_0_7_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flinkquickstart/quickstart/.idea/libraries/Maven__com_typesafe_akka_akka_actor_2_11_2_5_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flinkquickstart/quickstart/.idea/libraries/Maven__com_typesafe_akka_akka_protobuf_2_11_2_5_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flinkquickstart/quickstart/.idea/libraries/Maven__com_typesafe_akka_akka_slf4j_2_11_2_5_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flinkquickstart/quickstart/.idea/libraries/Maven__com_typesafe_akka_akka_stream_2_11_2_5_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flinkquickstart/quickstart/.idea/libraries/Maven__com_typesafe_config_1_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flinkquickstart/quickstart/.idea/libraries/Maven__com_typesafe_ssl_config_core_2_11_0_3_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flinkquickstart/quickstart/.idea/libraries/Maven__commons_cli_commons_cli_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flinkquickstart/quickstart/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flinkquickstart/quickstart/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flinkquickstart/quickstart/.idea/libraries/Maven__org_apache_commons_commons_compress_1_20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flinkquickstart/quickstart/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flinkquickstart/quickstart/.idea/libraries/Maven__org_apache_commons_commons_math3_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flinkquickstart/quickstart/.idea/libraries/Maven__org_apache_flink_flink_annotations_1_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flinkquickstart/quickstart/.idea/libraries/Maven__org_apache_flink_flink_core_1_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flinkquickstart/quickstart/.idea/libraries/Maven__org_apache_flink_flink_hadoop_fs_1_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flinkquickstart/quickstart/.idea/libraries/Maven__org_apache_flink_flink_java_1_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flinkquickstart/quickstart/.idea/libraries/Maven__org_apache_flink_flink_metrics_core_1_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flinkquickstart/quickstart/.idea/libraries/Maven__org_apache_flink_flink_queryable_state_client_java_1_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flinkquickstart/quickstart/.idea/libraries/Maven__org_apache_flink_flink_runtime_2_11_1_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flinkquickstart/quickstart/.idea/libraries/Maven__org_apache_flink_flink_shaded_asm_7_7_1_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flinkquickstart/quickstart/.idea/libraries/Maven__org_apache_flink_flink_shaded_guava_18_0_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flinkquickstart/quickstart/.idea/libraries/Maven__org_apache_flink_flink_shaded_jackson_2_10_1_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flinkquickstart/quickstart/.idea/libraries/Maven__org_apache_flink_flink_shaded_netty_4_1_39_Final_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flinkquickstart/quickstart/.idea/libraries/Maven__org_apache_flink_flink_shaded_zookeeper_3_3_4_14_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flinkquickstart/quickstart/.idea/libraries/Maven__org_apache_flink_flink_streaming_java_2_11_1_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flinkquickstart/quickstart/.idea/libraries/Maven__org_apache_flink_force_shading_1_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flinkquickstart/quickstart/.idea/libraries/Maven__org_clapper_grizzled_slf4j_2_11_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flinkquickstart/quickstart/.idea/libraries/Maven__org_javassist_javassist_3_24_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flinkquickstart/quickstart/.idea/libraries/Maven__org_lz4_lz4_java_1_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flinkquickstart/quickstart/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flinkquickstart/quickstart/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flinkquickstart/quickstart/.idea/libraries/Maven__org_scala_lang_modules_scala_java8_compat_2_11_0_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flinkquickstart/quickstart/.idea/libraries/Maven__org_scala_lang_scala_library_2_11_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flinkquickstart/quickstart/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flinkquickstart/quickstart/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flinkquickstart/quickstart/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flinkquickstart/quickstart/.idea/thriftCompiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flinkquickstart/quickstart/quickstart.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mafka_producer_consumer/demo-mafka.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mafka_producer_consumer/src/main/java/com/meituan/demo/mafka/CommentSyncProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mafka_producer_consumer/src/main/java/com/meituan/demo/mafka/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mafka_producer_consumer/src/main/java/com/meituan/demo/mafka/model/CommentBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mafka_producer_consumer/src/main/java/com/meituan/demo/mafka/model/SimpleOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mafka_producer_consumer/src/main/java/com/meituan/demo/mafka/model/StatusEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myVueTest/src/components/test/Test.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rtcomment/.idea/rtcomment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scalatest/scalatest.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1l5zOekKLogFeA6QZ0bZy2m3K3i" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/first-vue/src/components" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/first-vue/src/components" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="dev" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/first-vue/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d9c0618-68f8-4f1f-8890-6bdd14866bfb" name="Default Changelist" comment="" />
+      <created>1606901709967</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606901709967</updated>
+      <workItem from="1606901711054" duration="2719000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="265" y="143" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606906203465">
+      <screen x="0" y="0" width="1440" height="843" />
+    </state>
+    <state x="265" y="143" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.843/1440.0.1920.1080@0.0.1440.843" timestamp="1606906203465" />
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1606906859060">
+      <screen x="0" y="0" width="1440" height="843" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.843/1440.0.1920.1080@0.0.1440.843" timestamp="1606906859060" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1606906859058">
+      <screen x="0" y="0" width="1440" height="843" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.843/1440.0.1920.1080@0.0.1440.843" timestamp="1606906859058" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1606906859057">
+      <screen x="0" y="0" width="1440" height="843" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.843/1440.0.1920.1080@0.0.1440.843" timestamp="1606906859057" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1606906859059">
+      <screen x="0" y="0" width="1440" height="843" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.843/1440.0.1920.1080@0.0.1440.843" timestamp="1606906859059" />
+  </component>
+</project>
